@@ -1,6 +1,17 @@
 {
+  "name": "portfolio-react",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "...",
+    "build": "...",
+    "preview": "..."
+  },
   "dependencies": {
-    "react-icons": "^5.7.0",
-    "react-simple-typewriter": "^5.0.1"
+    ...
+  },
+  "devDependencies": {
+    ...
   }
 }
